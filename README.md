@@ -2,12 +2,6 @@
 
 Aplicativo de calculadora desenvolvido para Android utilizando Kotlin e Jetpack Compose. O projeto foi criado com foco em aprendizado das ferramentas modernas de desenvolvimento Android, especialmente o paradigma declarativo de UI com Compose.
 
-## Sobre o projeto
-
-A calculadora oferece as quatro operações aritméticas básicas: adição, subtração, multiplicação e divisão. A interface segue um tema escuro com cores distintas para cada categoria de botão, facilitando a identificação visual das funções disponíveis.
-
-O layout é composto por um display na parte superior que exibe o valor atual e uma grade de 4x4 botões na parte inferior. A lógica de cálculo ainda está em desenvolvimento — os botões estão estruturados e prontos para receber a implementação das operações.
-
 ## Tecnologias utilizadas
 
 - **Kotlin** — linguagem principal do projeto
